@@ -1,6 +1,7 @@
 # JornadaBylearn
-programa para calcular média
 
-Esse programa calcula a média para quantas notas voce quiser entrar.
+Alguns códigos de programas realizados no curso Jornada Python realizados pela ByLearn
 
-Esse é um projeto para eu aprender a usar GIT
+códigos incialemente foram passados com erros propositais para resolvelos, ai estão todos funcionando 100%
+
+espero ajudar!
